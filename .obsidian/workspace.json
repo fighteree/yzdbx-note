@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "00cf0920e964abb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f20cf0834c120c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "568ff5b84130002e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redis面试题学习汇总.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redis面试题学习汇总"
+            }
+          },
+          {
+            "id": "2311f2a9f2498811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redis面试题学习汇总.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redis面试题学习汇总"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc1df0c90647644b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f7e3645cc9e51e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3f153fa360dc0fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9316ab6afe127c14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4e5bf1c2f308b6e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2559a51edfa78821",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aba3431822ba4b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a671b42c43b9d353",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redis面试题学习汇总.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Redis面试题学习汇总 的反向链接列表"
+            }
+          },
+          {
+            "id": "ad6bcc5a33f6c7ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Redis面试题学习汇总.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Redis面试题学习汇总 的出链列表"
+            }
+          },
+          {
+            "id": "bc6e35d353080a9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e54109a59cfea8f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redis面试题学习汇总.md"
+              },
+              "icon": "lucide-list",
+              "title": "Redis面试题学习汇总 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2311f2a9f2498811",
+  "lastOpenFiles": [
+    "`bgsave`命令fork子进程生产RDB文件.md",
+    "Redis面试题学习汇总.md",
+    "图片/Pasted image 20241115120540.png",
+    "图片/Pasted image 20241115102810.png",
+    "图片/Pasted image 20241105134037.png",
+    "Redis的LRU和LFU淘汰算法.md",
+    "Redis的LUR和LFU淘汰算法.md",
+    "布隆过滤器误判率.md",
+    "图片/Pasted image 20241104225203.png",
+    "图片/Pasted image 20241104225116.png",
+    "图片/Pasted image 20241104224056.png",
+    "图片/Pasted image 20241104223806.png",
+    "图片/Pasted image 20241104223745.png",
+    "图片/Pasted image 20241104223720.png",
+    "图片/Pasted image 20241104223656.png",
+    "Redis持久化中的页表.md",
+    "Elasticsearch.md",
+    "dwa.md",
+    "布隆过滤器.md",
+    "图片",
+    "^dwadwa.md",
+    "打进.md",
+    "www.baidu.com.md",
+    "lessson.md",
+    "Welcome.md"
+  ]
+}
