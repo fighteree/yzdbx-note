@@ -11,10 +11,14 @@
             "id": "48f60ceedd964d8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MYSQL篇/MYSQL面试题汇总.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "MYSQL面试题汇总"
             }
           }
         ]
@@ -160,16 +164,28 @@
   },
   "active": "48f60ceedd964d8c",
   "lastOpenFiles": [
+    "wq.md",
+    "MYSQL篇/MYSQL面试题汇总.md",
+    "Skywalking.md",
+    "Redis篇/Redis面试题学习汇总.md",
+    "MYSQL篇/wq.md",
+    "MYSQL篇/MYSQL主从复制、读写分离.md",
+    "图片/Pasted image 20241127220247.png",
+    "图片/Pasted image 20241127145035.png",
+    "图片/Pasted image 20241127143238.png",
+    "图片/Pasted image 20241127143132.png",
+    "图片/Pasted image 20241127132744.png",
+    "图片/Pasted image 20241127132044.png",
+    "图片/Pasted image 20241127131930.png",
+    "MYSQL篇/MYSQL中EXPLAINT关键字访问类型.md",
     "图片/Pasted image 20241116103415.png",
     "图片/Pasted image 20241116103303.png",
     "Redis篇/Redis持久化中的页表.md",
     "Redis篇/布隆过滤器误判率.md",
     "Redis篇/布隆过滤器.md",
-    "Redis篇/Redis面试题学习汇总.md",
     "Redis篇/Redis的LRU和LFU淘汰算法.md",
     "Redis篇/Elasticsearch.md",
     "Redis篇",
-    "MYSQL篇/MYSQL面试题汇总.md",
     "MYSQL篇",
     "布隆过滤器误判率.md",
     "布隆过滤器.md",
@@ -177,25 +193,14 @@
     "Redis面试题学习汇总.md",
     "Redis的LRU和LFU淘汰算法.md",
     "Elasticsearch.md",
-    "Skywalking.md",
-    "MYSQL篇/wq.md",
-    "wq.md",
     "`bgsave`命令fork子进程生产RDB文件.md",
     "图片/Pasted image 20241115120540.png",
-    "图片/Pasted image 20241115102810.png",
-    "图片/Pasted image 20241105134037.png",
     "Redis的LUR和LFU淘汰算法.md",
-    "图片/Pasted image 20241104225203.png",
-    "图片/Pasted image 20241104225116.png",
-    "图片/Pasted image 20241104224056.png",
-    "图片/Pasted image 20241104223806.png",
-    "图片/Pasted image 20241104223745.png",
     "dwa.md",
     "图片",
     "^dwadwa.md",
     "打进.md",
     "www.baidu.com.md",
-    "lessson.md",
-    "Welcome.md"
+    "lessson.md"
   ]
 }
